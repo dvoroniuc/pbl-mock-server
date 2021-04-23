@@ -1,0 +1,14 @@
+{
+  "name": "pbl",
+  "version": "0.0.1",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "watch": "nodemon ./src/server.js"
+  },
+  "devDependencies": {
+    "countdown": "^2.6.0",
+    "nodemon": "^2.0.7",
+    "prettier": "1.19.1"
+  }
+}
